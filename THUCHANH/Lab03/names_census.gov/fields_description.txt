@@ -1,0 +1,13 @@
+Field			Description
+------------------------------------------------------------------------------
+name			Last name
+rank			Rank
+count			Number of occurrences
+prop100k		Proportion per 100,000 people for name
+cum_prop100k	Cumulative proportion per 100,000 people
+pctwhite		Percent Non-Hispanic White Only
+pctblack		Percent Non-Hispanic Black Only
+pctapi			Percent Non-Hispanic Asian and Pacific Islander Only
+pctaian			Percent Non-Hispanic American Indian and Alaskan Native Only
+pct2prace		Percent Non-Hispanic of Two or More Races
+pcthispanic		Percent Hispanic Origin
